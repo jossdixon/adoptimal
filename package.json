@@ -21,5 +21,9 @@
   "homepage": "https://github.com/jossdixon/adoptimal#readme",
   "devDependencies": {
     "prettier": "^2.6.2"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
