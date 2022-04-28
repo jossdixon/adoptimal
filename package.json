@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "format": "prettier --write \"src/**/*.{js, jsx}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jossdixon/adoptimal/issues"
   },
-  "homepage": "https://github.com/jossdixon/adoptimal#readme"
+  "homepage": "https://github.com/jossdixon/adoptimal#readme",
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
 }
