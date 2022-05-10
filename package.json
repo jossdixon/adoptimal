@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/jossdixon/adoptimal#readme",
   "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.28.0",
