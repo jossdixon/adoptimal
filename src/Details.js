@@ -40,7 +40,7 @@ class Details extends Component {
             {
               ([theme]) => (
                 <button
-                  onClick={this.showModal}
+                  onClick={this.toggleModal}
                   style={{backgroundColor: theme}}
                 >
                   Adopt {name}
