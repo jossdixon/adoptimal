@@ -48,7 +48,6 @@ class Details extends Component {
               )
             }
           </ThemeContext.Consumer>
-          <button>Adopt {name}</button>
           <p>{description}</p>
           {showModal ? (
               <Modal>
